@@ -1,3 +1,3 @@
 # EEG_Models
 
-Scripts used to train Seizure dtetction models on EEG Data.
+Scripts used to train seizure detection models on EEG data for the Epilepsy project.
